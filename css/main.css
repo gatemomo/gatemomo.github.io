@@ -89,3 +89,22 @@ body{
     }
 }
 /*ใส่เพื่อ responsive*/
+
+.title{
+    font-size: 96px;
+    font-weight: 600px;
+    text-align: center;
+}
+
+.back-button{
+    background-color: rgb(140, 106, 64);
+    color:rgb(255, 255, 255);
+    padding: 12px 24px;
+    text-decoration:none;
+}
+
+.my-work{
+    color: rgb(72, 47, 19);
+    padding: 12px 24px;
+    text-decoration:none;
+}
